@@ -9,21 +9,21 @@
 
 ### 🛠️ My stack  
 <p align="left">
-  <img src="https://img.shields.io/badge/?logo=html5&logoColor=white&color=E34F26&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=css3&logoColor=white&color=1572B6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=javascript&logoColor=black&color=F7DF1E&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=typescript&logoColor=white&color=3178C6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=react&logoColor=black&color=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=redux&logoColor=white&color=764ABC&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=vue.js&logoColor=white&color=4FC08D&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=angular&logoColor=white&color=DD0031&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=node.js&logoColor=white&color=339933&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=mongodb&logoColor=white&color=47A248&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=swagger&logoColor=black&color=85EA2D&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=postman&logoColor=white&color=FF6C37&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=git&logoColor=white&color=F05032&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=github&logoColor=white&color=181717&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/?logo=figma&logoColor=white&color=F24E1E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
 </p>
 ---
 
