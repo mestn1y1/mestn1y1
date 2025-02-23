@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I`m Serhii Tyron</h1>
 
-### 🚀 Junior Frontend Developer | JavaScript | React  
+### 🚀 Junior Frontend Developer
 - 💡 Open to new opportunities
 - 🎯 Striving for growth and continuous learning
 - 🔎 Looking for a job in an Agile team
