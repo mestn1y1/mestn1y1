@@ -1,9 +1,9 @@
 <h1 align="center">Hello! 👋 I`m Serhii Tyron</h1>
 
 ### 🚀 Junior Frontend Developer | JavaScript | React  
--💡 Open to new opportunities
--🎯 Striving for growth and continuous learning
--🔎 Looking for a job in an Agile team
+- 💡 Open to new opportunities
+- 🎯 Striving for growth and continuous learning
+- 🔎 Looking for a job in an Agile team
 
 ---
 
@@ -36,14 +36,14 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mestn1y1&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mestn1y1&show_icons=true&theme=radical" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mestn1y1&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mestn1y1&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📫  Get in touch with me
+### 📫 Get in touch with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/serhii-tyron/)  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/serhii_tyron)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mestn1y@hotmail.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mestn1y@hotmail.com)
