@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 I`m Serhii Tyron</h1>
+<h1 align="center">Hello! 👋 I`m Serhii </h1>
 
 ### 🚀 Junior Frontend Developer
 - 💡 Open to new opportunities
