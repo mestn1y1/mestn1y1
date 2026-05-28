@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 I`m Serhii </h1>
+<h1 align="center">Hello! 👋</h1>
 
 ### 🚀 Junior Frontend Developer
 - 💡 Open to new opportunities
@@ -45,7 +45,4 @@
 
 ---
 
-### 📫 Get in touch with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/serhii-tyron/)  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/serhii_tyron)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mestn1y@hotmail.com)
+
